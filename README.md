@@ -1,13 +1,18 @@
-simple-spring-mvc
+BITBookstore
 =================
 
-a simple spring mvc demo for quickly build a j2ee web application
+喜羊羊与灰太狼网上书城项目
 
-Notice:
+本项目是软件工程课程的实例项目，开发过程采用敏捷开发的Scrum模型进行。
 
-if(maven is ok for you){
-  then please use the master branch
-}else{
-  use the not-maven branch
-}
+主要功能有：
 
+1. 买家注册、会员中心、浏览图书、查看图书详情、下单购买图书等。
+
+2. 卖家注册、卖家中心、卖家发布图书信息、订单查看。
+
+3. 管理员注册、管理中心、订单跟踪等。
+
+项目组成员：淮欧，罗讴，黄佳，吴凡凡，陈一龙。
+
+项目指导老师：金老师，陈博士。
